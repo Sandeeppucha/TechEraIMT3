@@ -1,0 +1,30 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.right-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin-left: 25px;
+}
+
+.image_urls {
+  height: 250px;
+  width: 250px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+}

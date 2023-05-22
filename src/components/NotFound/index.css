@@ -1,0 +1,19 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  height: 300px;
+  width: 300px;
+}
+
+.button {
+  height: 40px;
+  width: 80px;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+}
